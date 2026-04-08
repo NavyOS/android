@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="navyos"
+          fetch="https://github.com/NavyOS" />
+
+  <project path="vendor/navyos"
+           name="android_vendor_navyos"
+           remote="navyos"
+           revision="refs/heads/navy-23.2" />
+
+</manifest>
